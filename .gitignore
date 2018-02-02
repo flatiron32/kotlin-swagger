@@ -1,0 +1,12 @@
+.gradle/
+build/
+*.iml
+*.ipr
+*.iws
+out/
+.idea
+.terraform
+*.tfplan
+*.tfstate*
+.idea
+*.swp
